@@ -394,6 +394,6 @@ exports.findschedule = (req, res) => {
 
 
 
-// Design by Kelani Yunus Oluwadamilare
-// email yunuskelani2@gmail.com//
-// phone: +2348140470626
+// Design by Omotola Ishola-Badamasi
+// email drtolabhadmos@gmail.com//
+// phone: +2348057064944
