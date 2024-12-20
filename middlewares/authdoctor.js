@@ -77,6 +77,6 @@ else{
 
 
 
-// Design by Kelani Yunus Oluwadamilare
-// email yunuskelani2@gmail.com//
-// phone: +2348140470626
+// Design by Omotola Ishola-Badamasi
+// email il.com//drtolabhadmos@gmail.com//
+// phone: +2348057064944
