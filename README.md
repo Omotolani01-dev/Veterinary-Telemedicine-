@@ -1,2 +1,3 @@
 # Veterinary-Telemedicine
-This  project is seeing to  bringing together all veterinarians and animal owners around the world on an interface to give care to companion animals(dogs, cats, horses) and food animals(cattles, sheep and goats) from anywhere all over the world , without having to visit the hospital physically to give care to them.
+This  project is seeing to  bringing together all veterinarians and animal owners around the world on an interface to give care to companion animals(dogs, cats, horses) and food animals(cattles, sheep and goats) from anywhere all over the world , without having to visit the hospital physically to give care to them. 
+There will be a payment to be paid by the animal owner each time to access the site. while the doctors will be paying a subcribtion fee yearly to stay on the plateform to give care, As it will also be an avenue for any doctor who subscribed to be on the plateform to make money as well. 
